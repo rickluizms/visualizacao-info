@@ -12,11 +12,13 @@ Certifique-se de fazer o download do conjunto de dados e salvá-lo em um diretó
 
 O repositório está organizado da seguinte forma:
 
-- `notebooks`: Esta pasta contém notebooks Jupyter que demonstram diferentes técnicas de visualização utilizando o Plotly. Cada notebook é focado em um tipo específico de gráfico ou visualização.
+- `plots`:
 
-- `scripts`: Esta pasta contém scripts Python que mostram exemplos de código para criar visualizações com o Plotly.
+- `AAPL.csv`: .
 
-- `data`: Esta pasta é onde você deve colocar o conjunto de dados `stock_market_dataset.csv` baixado do Kaggle.
+- `MSFT.csv`: .
+
+- `stock_plots.ipynb`: .
 
 - `README.md`: Este arquivo contendo informações sobre o repositório e instruções de uso.
 
@@ -27,7 +29,6 @@ Para executar os notebooks e scripts neste repositório, é necessário ter o Py
 As principais dependências utilizadas neste projeto são:
 - Plotly
 - Pandas
-- NumPy
 
 Para instalar as dependências, execute o seguinte comando em seu ambiente:
 
