@@ -1,6 +1,6 @@
 # Visualização da Informação com Python e Plotly
 
-Este repositório contém exemplos e tutoriais de visualização da informação utilizando a linguagem de programação Python e a biblioteca Plotly. O objetivo é demonstrar como criar gráficos interativos e visualizações de dados utilizando o Plotly.
+Este repositório contém exemplos de visualização da informação utilizando a linguagem de programação Python e as bibliotecas Plotly e Pandas. O objetivo é demonstrar como criar gráficos interativos e visualizações de dados utilizando o Python.
 
 ## Conjunto de dados
 
@@ -11,15 +11,15 @@ O conjunto de dados utilizado neste projeto é o [Stock Market Dataset](https://
 
 O repositório está organizado da seguinte forma:
 
-- `plots`:
+- `plots`: Nesta pasta está armazenado os plots criados.
 
-- `AAPL.csv`: .
+- `AAPL.csv`: Dataset das ações da Apple.
 
-- `MSFT.csv`: .
+- `MSFT.csv`: Dataset das ações da Microsoft.
 
-- `doc.pdf`:
+- `doc.pdf`: Resumo da Visualização.
 
-- `stock_plots.ipynb`: .
+- `stock_plots.ipynb`: Notebook com a lógica para gerar os gráficos.
 
-- `README.md`: Este arquivo contendo informações sobre o repositório e instruções de uso.
+- `README.md`: Este arquivo contendo informações sobre o repositório.
 
