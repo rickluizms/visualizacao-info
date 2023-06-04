@@ -18,6 +18,8 @@ O repositório está organizado da seguinte forma:
 
 - `MSFT.csv`: .
 
+- `doc.pdf`:
+
 - `stock_plots.ipynb`: .
 
 - `README.md`: Este arquivo contendo informações sobre o repositório e instruções de uso.
