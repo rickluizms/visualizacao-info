@@ -4,7 +4,7 @@ Este repositório contém exemplos de visualização da informação utilizando 
 
 ## Conjunto de dados
 
-O conjunto de dados utilizado neste projeto é o [Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset) disponível no Kaggle. Ele contém dados históricos de ações de empresas, incluindo preços de abertura, preços máximos, preços mínimos, preços de fechamento, volume de negociação e ajuste de preços.
+Os conjuntos de dados utilizados neste projeto foram tirados do [Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset) disponível no Kaggle. Ele contém dados históricos de ações de empresas, incluindo preços de abertura, preços máximos, preços mínimos, preços de fechamento, volume de negociação e ajuste de preços.
 
 
 ## Estrutura do repositório
