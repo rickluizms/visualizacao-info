@@ -11,13 +11,13 @@ O conjunto de dados utilizado neste projeto é o [Stock Market Dataset](https://
 
 O repositório está organizado da seguinte forma:
 
-- `plots`: Nesta pasta está armazenado os plots criados.
+- `plots`: Nesta pasta está armazenado os gráficos criados.
 
 - `AAPL.csv`: Dataset das ações da Apple.
 
 - `MSFT.csv`: Dataset das ações da Microsoft.
 
-- `doc.pdf`: Resumo da Visualização.
+- `doc.pdf`: Resumo da visualização.
 
 - `stock_plots.ipynb`: Notebook com a lógica para gerar os gráficos.
 
