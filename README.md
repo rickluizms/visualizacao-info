@@ -17,9 +17,10 @@ O repositório está organizado da seguinte forma:
 
 - `MSFT.csv`: Dataset das ações da Microsoft.
 
+- `README.md`: Este arquivo contendo informações sobre o repositório.
+
 - `doc.pdf`: Resumo da visualização.
 
 - `stock_plots.ipynb`: Notebook com a lógica para gerar os gráficos.
 
-- `README.md`: Este arquivo contendo informações sobre o repositório.
 
